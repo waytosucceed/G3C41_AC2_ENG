@@ -1,0 +1,289 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "In active voice, the subject _____ the action.",
+        "options": [
+            "receives",
+            "performs",
+            "watches",
+            "ignores"
+        ],
+        "correct": 1,
+        "explanation": "In active voice, the subject is the doer of the action."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "The sentence 'The cat chased the mouse' is in:",
+        "options": [
+            "Passive voice",
+            "Active voice"
+        ],
+        "correct": 1,
+        "explanation": "The subject (cat) is performing the action (chased)."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Passive voice always includes the phrase 'by someone.' ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "The 'by' phrase is optional in passive voice."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "The passive form of <br>'They are building a house' is:",
+        "options": [
+            "A house is built by them",
+            "A house was built by them",
+            "A house is being built by them",
+            "A house has been built by them"
+        ],
+        "correct": 2,
+        "explanation": "This maintains the present continuous tense in passive form."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "In the sentence <br>'The letter was written by John,'<br> who is the subject?",
+        "options": [
+            "John",
+            "The letter",
+            "Was",
+            "Written"
+        ],
+        "correct": 1,
+        "explanation": "In passive voice, the receiver of the action becomes the subject."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Fill in the blank:<br> In passive voice, we use a form of the verb '___' + past participle.",
+        "options": [
+            "to be",
+            "for be"
+        ],
+        "correct": 0,
+        "explanation": "Passive voice uses a form of 'to be' (is, was, were, etc.) plus the past participle."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which sentence is in passive voice?",
+        "options": [
+            "The dog barked loudly",
+            "She sang a beautiful song",
+            "The cake was baked by mom",
+            "We will go to the park"
+        ],
+        "correct": 2,
+        "explanation": "This sentence puts the object (cake) first and uses 'was baked.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The active voice of 'The window was broken by the ball' is:",
+        "options": [
+            "The ball breaks the window",
+            "The ball broke the window",
+            "The window is broken",
+            "The ball is breaking the window"
+        ],
+        "correct": 1,
+        "explanation": "This puts the doer (ball) first and uses the simple past tense."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "In the sentence <br>'The book is read by students,' <br>what is the verb?",
+        "options": [
+            "book",
+            "is read",
+            "students",
+            "by"
+        ],
+        "correct": 1,
+        "explanation": "'Is read' is the passive verb phrase in this sentence."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which word is often used to introduce the doer in passive voice?",
+        "options": [
+            "by",
+            "with",
+            "for",
+            "to"
+        ],
+        "correct": 0,
+        "explanation": "'By' is typically used to introduce the doer in passive voice."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The passive form of <br>'They will announce the winner tomorrow' is:",
+        "options": [
+            "The winner will be announced tomorrow",
+            "The winner is announced tomorrow",
+            "They are announcing the winner tomorrow",
+            "The winner was announced tomorrow"
+        ],
+        "correct": 0,
+        "explanation": "This maintains the future tense in passive form."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Passive voice always uses the past tense. ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "Passive voice can be used in any tense."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank: <br>In active voice, the subject comes _____ the verb.",
+        "options": [
+            "after",
+            "before"
+        ],
+        "correct": 1,
+        "explanation": "In active voice, the subject typically comes before the verb."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which sentence is in active voice?",
+        "options": [
+            "The parade was watched by thousands",
+            "Mistakes were made by everyone",
+            "The chef cooked a delicious meal",
+            "The test will be taken by students"
+        ],
+        "correct": 2,
+        "explanation": "The subject (chef) is performing the action (cooked)."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "The passive form of <br>'She is writing a letter' is:",
+        "options": [
+            "A letter is written by her",
+            "A letter was written by her",
+            "A letter is being written by her",
+            "A letter has been written by her"
+        ],
+        "correct": 2,
+        "explanation": "This maintains the present continuous tense in passive form."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "In the sentence <br>'The game was won by our team,' <br>what is the object?",
+        "options": [
+            "game",
+            "was",
+            "won",
+            "our team"
+        ],
+        "correct": 3,
+        "explanation": "In passive voice, the original subject becomes the object."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "The active voice of <br>'The cake was eaten by the children' is:",
+        "options": [
+            "The children eat the cake",
+            "The children ate the cake",
+            "The children are eating the cake",
+            "The children have eaten the cake"
+        ],
+        "correct": 1,
+        "explanation": "This puts the doer (children) first and uses the simple past tense."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Fill in the blank: <br>In passive voice, the _____ of the action becomes the subject.",
+        "options": [
+            "doer",
+            "receiver"
+        ],
+        "correct": 1,
+        "explanation": "The object (receiver of the action) in active voice becomes the subject in passive voice."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which sentence uses passive voice?",
+        "options": [
+            "The sun rises in the east",
+            "Birds fly in the sky",
+            "Homework is done by students",
+            "We play games on weekends"
+        ],
+        "correct": 2,
+        "explanation": "This sentence puts the object (homework) first and uses 'is done.'"
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "The passive form of <br>'The teacher will grade the tests' is:",
+        "options": [
+            "The tests will grade the teacher",
+            "The tests will be graded by the teacher",
+            "The teacher is grading the tests",
+            "The tests are graded by the teacher"
+        ],
+        "correct": 1,
+        "explanation": "This maintains the future tense in passive form."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which word changes form in passive voice sentences?",
+        "options": [
+            "subject",
+            "object",
+            "verb"
+        ],
+        "correct": 2,
+        "explanation": "The verb changes to include a form of 'to be' plus the past participle."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "The active voice of <br>'A song is being sung by the choir' is:",
+        "options": [
+            "The choir sings a song",
+            "The choir sang a song",
+            "The choir has sung a song",
+            "The choir is singing a song"
+        ],
+        "correct": 3,
+        "explanation": "This maintains the present continuous tense in active form."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "In the sentence <br>'The book was written by a famous author,'<br> what is the subject?",
+        "options": [
+            "book",
+            "was",
+            "written",
+            "famous author"
+        ],
+        "correct": 0,
+        "explanation": "In passive voice, the receiver of the action (book) becomes the subject."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "The passive form of <br>'They have cleaned the room' is:",
+        "options": [
+            "The room is cleaned by them",
+            "The room was cleaned by them",
+            "The room has been cleaned by them",
+            "The room is being cleaned by them"
+        ],
+        "correct": 2,
+        "explanation": "This maintains the present perfect tense in passive form."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "In the sentence <br>'The cake was baked by Grandma,'<br> who is doing the action?",
+        "options": [
+            "The cake",
+            "Grandma",
+            "Was",
+            "Baked"
+        ],
+        "correct": 1,
+        "explanation": "Even though 'Grandma' is at the end, she's the one doing the baking."
+    }
+]
